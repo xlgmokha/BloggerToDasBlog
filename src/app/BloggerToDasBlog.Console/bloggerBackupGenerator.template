@@ -1,0 +1,20 @@
+<bloggerEntries>
+	<Blogger>
+		<bi_entry>
+			<bi_url><![CDATA[<$BlogItemURL$>]]></bi_url>
+			<bi_title><![CDATA[<$BlogItemTitle$>]]></bi_title>
+			<bi_body><![CDATA[<$BlogItemBody$>]]></bi_body>
+			<bi_author><![CDATA[<$BlogItemAuthor$>]]></bi_author>
+			<bi_date><![CDATA[<$BlogItemDateTime$>]]></bi_date>
+			<BlogItemCommentsEnabled>
+				<BlogItemComments>
+					<bi_comments>
+						<bi_commentauthor><![CDATA[<$BlogCommentAuthor$>]]></bi_commentauthor>
+						<bi_commentdate><![CDATA[<$BlogCommentDateTime$>]]></bi_commentdate>
+						<bi_commentbody><![CDATA[<$BlogCommentBody$>]]></bi_commentbody>
+					</bi_comments>
+				</BlogItemComments>
+			</BlogItemCommentsEnabled>
+		</bi_entry>
+	</Blogger>
+</bloggerEntries>
